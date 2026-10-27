@@ -1,0 +1,16 @@
+warning: in the working copy of 'INFO.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/INFO.md b/INFO.md[m
+[1mindex d486037..3dcf158 100644[m
+[1m--- a/INFO.md[m
+[1m+++ b/INFO.md[m
+[36m@@ -1 +1,2 @@[m
+ git is awsome[m
+[32m+[m[32mnew line[m
+[1mdiff --git a/README.md b/README.md[m
+[1mindex ad6bc92..e028058 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1 @@[m
+[31m-add README.md[m
+[32m+[m[32mHello, Hexlet! How are u?[m
