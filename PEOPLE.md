@@ -1,2 +1,1 @@
 add PEOPLE.md
-nigadyai
